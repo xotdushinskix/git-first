@@ -8,6 +8,14 @@ public class Calculator {
 		}
 	}
 	
+	public void div(int .. params) {
+		if (arg.length > 0) {
+			
+		} else {
+			
+		}
+	}
+	
 	public int getResult() {
 		return this.result;
 	}
